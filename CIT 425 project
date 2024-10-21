@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>RS Report</title>
+    </head>
+    <body>
+        <h1>RS Report </h1>
+        <section>
+            <h2>News</h2>
+            <p>This is a place holder for news reports that we will add later.</p>
+        </section>
+        <section>
+           <h2>Events</h2>
+           <p>This is a placeholder for car meets that we will go to.</p>
+        </section>
+        <section>
+            <h2>Under the Hood</h2>
+            <p>Here we will put interviews that will be conducted with people & their cars.</p>
+        </section>
+
+    </body>
+</html>
